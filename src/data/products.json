@@ -1,0 +1,110 @@
+[
+  {
+    "id": "dc-sonic-pro",
+    "name": "Cepillo eléctrico sónico Pro",
+    "price": 79.9,
+    "category": "hygiene",
+    "shortDescription": "Limpieza profunda con 40.000 pulsaciones por minuto.",
+    "description": "Diseñado para una higiene diaria sin esfuerzo. Incluye tres modos (sensible, blanqueamiento, encías), temporizador de dos minutos y recambio de cabezal incluido. Ideal si buscas resultados de clínica en casa, con un uso cómodo y silencioso.",
+    "image": "https://picsum.photos/seed/dc-sonic-pro/600/600"
+  },
+  {
+    "id": "dc-floss-mint",
+    "name": "Hilo dental encerado menta",
+    "price": 4.5,
+    "category": "hygiene",
+    "shortDescription": "Desliza suave entre dientes sin romperse.",
+    "description": "Cera natural que facilita el paso en espacios estrechos. Sabor menta suave, sin alcohol. Cada dispensador rinde unas ocho semanas con uso diario. Recomendado por higienistas para complementar el cepillado.",
+    "image": "https://picsum.photos/seed/dc-floss-mint/600/600"
+  },
+  {
+    "id": "dc-mouthwash-fresh",
+    "name": "Enjuague bucal sin alcohol",
+    "price": 8.9,
+    "category": "hygiene",
+    "shortDescription": "Aliento fresco durante horas, sin picor.",
+    "description": "Fórmula equilibrada con fluoruro y xilitol. Sin alcohol para no resecar la mucosa. Uso diario tras cepillado para una sensación de limpieza prolongada. Envase de 500 ml con tapón dosificador.",
+    "image": "https://picsum.photos/seed/dc-mouthwash-fresh/600/600"
+  },
+  {
+    "id": "dc-whiten-led",
+    "name": "Kit blanqueamiento LED en casa",
+    "price": 49.0,
+    "category": "whitening",
+    "shortDescription": "Tratamiento guiado de 10 días con luz LED.",
+    "description": "Incluye bandeja termoformable, gel con peróxido de carbamida al 16 % y dispositivo LED recargable. Instrucciones paso a paso y calendario de uso. No sustituye la valoración de tu dentista si tienes sensibilidad fuerte.",
+    "image": "https://picsum.photos/seed/dc-whiten-led/600/600"
+  },
+  {
+    "id": "dc-strips-14",
+    "name": "Tiras blanqueadoras 14 noches",
+    "price": 32.0,
+    "category": "whitening",
+    "shortDescription": "Aplicación nocturna, resultados graduales.",
+    "description": "Catorce pares de tiras flexibles que se adaptan al contorno del diente. Uso nocturno de 30 minutos. Menos sensibilidad que tratamientos de alta concentración en una sola sesión. Efecto visible a partir del quinto día en la mayoría de usuarios.",
+    "image": "https://picsum.photos/seed/dc-strips-14/600/600"
+  },
+  {
+    "id": "dc-paste-white",
+    "name": "Pasta dental blanqueadora suave",
+    "price": 6.75,
+    "category": "whitening",
+    "shortDescription": "Uso diario: ayuda a eliminar manchas superficiales.",
+    "description": "Con micropartículas pulidoras y fluoruro para fortalecer el esmalte. Textura cremosa y sabor menta fresca. Apta para uso diario junto con cepillo de cerdas suaves. Tubo de 100 ml.",
+    "image": "https://picsum.photos/seed/dc-paste-white/600/600"
+  },
+  {
+    "id": "dc-mirror-led",
+    "name": "Espejo intraoral con LED",
+    "price": 18.5,
+    "category": "tools",
+    "shortDescription": "Inspecciona zonas difíciles con buena luz.",
+    "description": "Mango ergonómico, luz LED fría y superficie antiempañante. Incluye funda para viaje. Útil para revisiones en casa o para seguir instrucciones de ortodoncia. Pilas incluidas.",
+    "image": "https://picsum.photos/seed/dc-mirror-led/600/600"
+  },
+  {
+    "id": "dc-interdental-kit",
+    "name": "Kit cepillos interdentales",
+    "price": 12.9,
+    "category": "hygiene",
+    "shortDescription": "Seis medidas para limpiar entre dientes y implantes.",
+    "description": "Estuche compacto con mango reutilizable y recambios de distintos calibres. Instrucciones ilustradas para elegir la medida adecuada. Fundamental si usas brackets o puentes.",
+    "image": "https://picsum.photos/seed/dc-interdental-kit/600/600"
+  },
+  {
+    "id": "dc-irrigator",
+    "name": "Irrigador bucal portátil",
+    "price": 64.0,
+    "category": "tools",
+    "shortDescription": "Depósito de 300 ml y cuatro boquillas incluidas.",
+    "description": "Presión regulable en varios niveles. Recargable por USB-C. Ideal para ortodoncia y encías sensibles. Modo pulsación suave para principiantes. Diseño compacto para el baño o viajes.",
+    "image": "https://picsum.photos/seed/dc-irrigator/600/600"
+  },
+  {
+    "id": "dc-night-guard",
+    "name": "Protector nocturno termoformable",
+    "price": 24.9,
+    "category": "tools",
+    "shortDescription": "Moldea en agua caliente, alivia el bruxismo leve.",
+    "description": "Material BPA-free con instrucciones de moldeado en vídeo QR. Grosor equilibrado entre comodidad y durabilidad. Si aprietas con mucha fuerza, consulta con tu dentista para un protector a medida.",
+    "image": "https://picsum.photos/seed/dc-night-guard/600/600"
+  },
+  {
+    "id": "dc-ortho-brush",
+    "name": "Cepillo en V para ortodoncia",
+    "price": 5.25,
+    "category": "hygiene",
+    "shortDescription": "Cerda en forma de V para brackets y alambres.",
+    "description": "Mango antideslizante y cabezal compacto. Ayuda a alcanzar la línea de encía alrededor de los brackets. Combínalo con irrigador o cepillo interdental para una rutina completa.",
+    "image": "https://picsum.photos/seed/dc-ortho-brush/600/600"
+  },
+  {
+    "id": "dc-tongue-cleaner",
+    "name": "Limpiador lingual de acero inoxidable",
+    "price": 7.4,
+    "category": "hygiene",
+    "shortDescription": "Reduce la capa bacteriana en la lengua en segundos.",
+    "description": "Diseño de doble cara con mango cómodo. Fácil de limpiar y esterilizar. Incluye funda de viaje. Complemento sencillo para mejorar el aliento cuando ya cepillas bien los dientes.",
+    "image": "https://picsum.photos/seed/dc-tongue-cleaner/600/600"
+  }
+]
